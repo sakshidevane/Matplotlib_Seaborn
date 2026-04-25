@@ -1,5 +1,3 @@
-# Matplotlib_Seaborn
-
 # Data Visualization (Matplotlib & Seaborn) 📈
 
 ## Overview
